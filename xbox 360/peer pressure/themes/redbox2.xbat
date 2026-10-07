@@ -1,0 +1,67 @@
+
+[Theme]
+Version = 9199
+RenderFlags = -1025
+
+[SphereMaterial]
+Diffuse = 0xff0000ff
+Specular = 0x7f7f7f08
+Ambient = 0xffffffff
+
+[ImpactedSphereMaterial]
+Diffuse = 0x7b6262ff
+Specular = 0x7f7f7f08
+Ambient = 0xffffffff
+
+[XLipMaterial]
+Diffuse = 0xb2b2b2ff
+Specular = 0x7f7f7f08
+Ambient = 0xffffffff
+
+[XWallMaterial]
+Diffuse = 0xffffffff
+Specular = 0xffffff01
+Ambient = 0x000000ff
+
+[InnerSphereMaterial]
+Diffuse = 0xff0000ff
+Specular = 0xcccccc01
+Ambient = 0xffffffff
+
+[BulletShadowsMaterial]
+Diffuse = 0xff0000ff
+Specular = 0xffffff01
+Ambient = 0xffffffff
+
+[FinalRingsMaterial]
+Diffuse = 0xff0000ff
+Specular = 0xffffff01
+Ambient = 0xffffffff
+
+[XboxTextMaterial]
+Diffuse = 0x7a7a7aff
+Specular = 0xffffff01
+Ambient = 0xffffffff
+
+[ThreeSixtyTextMaterial]
+Diffuse = 0xff0000ff
+Specular = 0xffffff01
+Ambient = 0xffffffff
+
+[ImpactRingsMaterial]
+Diffuse = 0x080055ff
+Specular = 0xffffff01
+Ambient = 0xffffffff
+
+[SphereTrademarkTextMaterial]
+Diffuse = 0xff0000ff
+Specular = 0xffffff01
+Ambient = 0xffffffff
+
+[MiscColors]
+XInnerWallsTextureColor1 = 0xffababff
+XInnerWallsTextureColor2 = 0xa83b19ff
+XInnerWallsTextureColor3 = 0xff0000ff
+InnerSphereTextureColor = 0xff0000ff
+ImpactGlowColor = 0xff0000ff
+BackgroundColor = 0x960000ff
